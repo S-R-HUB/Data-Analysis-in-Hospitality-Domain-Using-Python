@@ -23,9 +23,9 @@ Data sources are from the CSV files as listed below:
 5. Insights & Conclusions
 
 ## Tools & Libraries
-Language - Python 3.10
-Libraries - pandas, numpy, matplotlib, seaborn
-IDE - Google Colab notebook
+- Language - Python 3.10
+- Libraries - pandas, numpy, matplotlib, seaborn
+- IDE - Google Colab notebook
 
 ## Key Insights
 - Presidential rooms has the highest occupancy rate of **59.30%** while Premnium rooms has the lowest occupancy rate of **58.03%**

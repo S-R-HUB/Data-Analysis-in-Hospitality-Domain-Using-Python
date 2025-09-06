@@ -39,9 +39,71 @@ Data sources are from the CSV files as listed below:
 - Others platform generates the largest revenue contributing to **40.9%** of the total revenue. MakeYourTrip is also a significant platform contributing to **20%** of the revenue while Direct Offline, Direct Online, Journey, Logtrip, and Tripster contribute smaller percentages to the overall revenue.
   
 ## How to Run
-1. Clone the repo
-2. Install dependencies: `pip install -r requirements.txt`
-3. Open `notebooks/analysis.ipynb` in Jupyter
+You can view the .ipynb file from the repository or you can download and run the file
+There are two ways to run the .ipynb file after downloading.
+1. Using Jupyter Notebook
+2. Using Google Colab
+   
+### **1. Using Jupyter Notebook**
+
+#### Prerequisites
+
+- **Python Installed:** Make sure Python is installed on your system. Download from [python.org](https://www.python.org/downloads/) if not already installed.
+- **Jupyter Notebook Installed:** You can install Jupyter Notebook using `pip` or via the Anaconda distribution.
+
+**Install Jupyter Notebook via pip**
+
+Open your terminal (Command Prompt on Windows, Terminal on macOS/Linux) and run:
+
+```bash
+pip install notebook
+```
+
+---
+#### **Launching Jupyter Notebook**
+
+1. The first step is to open the command-line interface for your operating system.
+
+**On Windows**: Press `Win + R`, type `cmd`, and hit Enter.
+**On Mac**: Press `Cmd + Space`, type `Terminal`, and hit Enter..
+**On Linux**: Use `Ctrl + Alt + T` or search for Terminal in your applications.
+
+2. Navigate to the Folder Containing Your `.ipynb` File using your terminal
+   - Use the `cd` command. Example:
+     ```bash
+     cd path\to\your\folder
+     ```
+   - Replace `path\to\your\folder` with your actual folder path. For example:  
+     `cd C:\Users\YourName\Documents\Projects`
+
+3. Start Jupyter Notebook
+   - Run:
+     ```bash
+     jupyter notebook
+     ```
+   - This will open Jupyter in your web browser.
+
+4. Open the `.ipynb` File
+   - In the browser, navigate to your file and click it to open.
+
+---
+
+#### **Alternative: Using Anaconda (All OS)**
+
+If you have [Anaconda](https://www.anaconda.com/products/distribution) installed:
+
+1. Open **Anaconda Navigator**.
+2. Click **Launch** under Jupyter Notebook.
+3. Use the file browser to open your `.ipynb` file.
+
+---
+
+#### **Troubleshooting**
+
+- **Command not found:** Make sure Python and Jupyter are added to your PATH/environment variables.
+- **Port already in use error:** Try running `jupyter notebook --port=8889` (or another free port).
+- **If Jupyter does not open automatically**: Copy the provided URL (usually `http://localhost:8888`) from the terminal and paste it into your browser.
+
 
 ## Limitations & Future Work
 - Data from only one region; more datasets could improve generalizability.

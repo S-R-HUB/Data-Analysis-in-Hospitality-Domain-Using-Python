@@ -98,6 +98,35 @@ If you have [Anaconda](https://www.anaconda.com/products/distribution) installed
 
 ---
 
+### **2. Using Google Colab**
+
+---
+
+#### **1. Open Google Colab**
+- Go to [Google Colab](https://colab.research.google.com/) in your browser.
+  
+#### **2. Upload the `.ipynb` File**
+You have several ways to upload your notebook:
+
+**Option 1: Upload Directly from Computer**
+1. On the Colab welcome screen, click on the **"Upload"** tab.
+2. Click the **"Choose File"** button.
+3. Browse and select your `.ipynb` file.
+4. The notebook will open in a new tab in Colab and will be stored temporarily.
+
+### **Option 2: Open from Google Drive**
+1. Save or move your `.ipynb` file to your Google Drive.
+2. In Colab, click the **"Google Drive"** tab.
+3. Navigate to the folder containing your notebook.
+4. Click on the notebook to open it.
+
+### **Option 3: Open from GitHub**
+1. Push your `.ipynb` file to a GitHub repository.
+2. In Colab, click the **"GitHub"** tab.
+3. Paste the GitHub URL or search for the repository/user.
+4. Click the notebook to open it.
+
+
 #### **Troubleshooting**
 
 - **Command not found:** Make sure Python and Jupyter are added to your PATH/environment variables.

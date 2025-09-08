@@ -24,7 +24,7 @@ Data sources are from the CSV files as listed below:
 
 ## Tools & Libraries
 - Language - Python 3.10
-- Libraries - pandas, numpy, matplotlib, seaborn
+- Libraries - pandas, numpy, matplotlib
 - IDE - Google Colab notebook
 
 ## Key Insights
@@ -52,7 +52,7 @@ There are two ways to run the .ipynb file after downloading.
 - **Jupyter Notebook Installed:** You can install Jupyter Notebook using `pip` or via the Anaconda distribution.
 
  **Recommended:** When installing Python from [python.org](https://www.python.org/), check the box "Add Python to PATH" at the start of the installer.
- The following documnent provides a detailed explanation on how to [https://github.com/S-R-HUB/Data-Analysis-in-Hospitality-Domain-Using-Python/blob/main/Configuring%20PATH%20variable.pptx] (Add Python and Jupyter to PATH Manually)
+ The following documnent provides a detailed explanation on how to [Add Python and Jupyter to PATH Manually](https://github.com/S-R-HUB/Data-Analysis-in-Hospitality-Domain-Using-Python/blob/main/Configuring%20PATH%20variable.pptx)
 
 **Install Jupyter Notebook via pip**
 

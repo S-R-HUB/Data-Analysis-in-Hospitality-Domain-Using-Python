@@ -49,6 +49,7 @@ There are two ways to run the .ipynb file after downloading.
 #### Prerequisites
 
 - **Python Installed:** Make sure Python is installed on your system. Download from [python.org](https://www.python.org/downloads/) if not already installed.
+- -  When installing Python from [python.org](https://www.python.org/), check the box "Add Python to PATH" at the start of the installer.
 - **Jupyter Notebook Installed:** You can install Jupyter Notebook using `pip` or via the Anaconda distribution.
 
 **Install Jupyter Notebook via pip**
@@ -95,6 +96,14 @@ If you have [Anaconda](https://www.anaconda.com/products/distribution) installed
 1. Open **Anaconda Navigator**.
 2. Click **Launch** under Jupyter Notebook.
 3. Use the file browser to open your `.ipynb` file.
+
+---
+
+#### **Troubleshooting**
+
+- **Command not found:** Make sure Python and Jupyter are added to your PATH/environment variables.
+- **Port already in use error:** Try running `jupyter notebook --port=8889` (or another free port).
+- **If Jupyter does not open automatically**: Copy the provided URL (usually `http://localhost:8888`) from the terminal and paste it into your browser.
 
 ---
 

@@ -49,8 +49,10 @@ There are two ways to run the .ipynb file after downloading.
 #### Prerequisites
 
 - **Python Installed:** Make sure Python is installed on your system. Download from [python.org](https://www.python.org/downloads/) if not already installed.
-- -  When installing Python from [python.org](https://www.python.org/), check the box "Add Python to PATH" at the start of the installer.
 - **Jupyter Notebook Installed:** You can install Jupyter Notebook using `pip` or via the Anaconda distribution.
+
+ **Recommended:** When installing Python from [python.org](https://www.python.org/), check the box "Add Python to PATH" at the start of the installer.
+ The following documnent provides a detailed explanation on how to [https://github.com/S-R-HUB/Data-Analysis-in-Hospitality-Domain-Using-Python/blob/main/Configuring%20PATH%20variable.pptx] (Add Python and Jupyter to PATH Manually)
 
 **Install Jupyter Notebook via pip**
 

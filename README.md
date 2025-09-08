@@ -138,18 +138,5 @@ You have several ways to upload your notebook:
 4. Click the notebook to open it.
 
 
-#### **Troubleshooting**
-
-- **Command not found:** Make sure Python and Jupyter are added to your PATH/environment variables.
-- **Port already in use error:** Try running `jupyter notebook --port=8889` (or another free port).
-- **If Jupyter does not open automatically**: Copy the provided URL (usually `http://localhost:8888`) from the terminal and paste it into your browser.
-
-
-## Limitations & Future Work
-- Data from only one region; more datasets could improve generalizability.
-
-## License
-MIT
-
-## Contact
-Your Name - your.email@example.com
+## Limitations
+- Data is limited only to year 2022 for the month of May, June and July. We can add data for more upcoming years

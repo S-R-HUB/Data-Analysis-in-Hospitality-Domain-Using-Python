@@ -37,7 +37,9 @@ Data sources are from the CSV files as listed below:
 - IDE - Google Colab notebook
 
 ## Key Insights
+### 1. Presidential Rooms Have the Highest Occupancy Rate
 - Presidential rooms has the highest occupancy rate of **59.30%** while Premnium rooms has the lowest occupancy rate of **58.03%**
+### 2. Delhi Leads in City Occupancy Rates
 - Delhi has the highest occupancy rate at **61.61%**, followed by Hyderabad with an occupancy rate of **58.14%**. Mumbai has occupancy rate of 57.94% and Bangalore has the lowest among the listed cities, at **56.59%**.
 - Average occupancy rate for hotels is higher on weekends than weekdays. The occupancy rate on weekends is about **72.39%**, while it's **50.90%** on weekdays.
 - In June Delhi had the highest occupancy rate at **62.47%**, followed by Hyderabad at **58.46%**, Mumbai at **58.38%**, and Bangalore at **56.58%**.

@@ -3,6 +3,15 @@
 ## Project Description
 This project analyzes hospitality data to uncover key trends and insights regarding hotel bookings, revenue generated and occupancy.
 
+## Table of Contents
+- [Problem Statement and Objective](#problem-statement-and-objective)
+- [Dataset](#dataset)
+- [Steps involved to execute the Project](#steps-involved-to-execute-the-project)
+- [Tools & Libraries](#tools-&-libraries)
+- [Key Insights](#key-insights)
+- [How to Use](#how-to-use)
+- [Limitations](#limitations)
+
 ## Problem Statement and Objective
 Atliq Grands, an Indian hotel chain with 20 years of industry experience and operations in Delhi, Mumbai, Bangalore, and Hyderabad, is facing significant challenges from competitors, leading to revenue and market share loss. To address this, Atliq Grands management has decided to onboard data analytics and implement data-informed decision making to increase revenue and market share.
 
@@ -38,7 +47,7 @@ Data sources are from the CSV files as listed below:
 - Hotels in Delhi has the highest average rating followed by Hyderabad, Mumbai and Bangalore
 - Others platform generates the largest revenue contributing to **40.9%** of the total revenue. MakeYourTrip is also a significant platform contributing to **20%** of the revenue while Direct Offline, Direct Online, Journey, Logtrip, and Tripster contribute smaller percentages to the overall revenue.
   
-## How to Run
+## How to Use
 You can view the .ipynb file from the repository or you can download and run the file
 There are two ways to run the .ipynb file after downloading.
 1. Using Jupyter Notebook

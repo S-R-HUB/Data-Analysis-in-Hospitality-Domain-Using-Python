@@ -38,16 +38,31 @@ Data sources are from the CSV files as listed below:
 
 ## Key Insights
 ### 1. Presidential Rooms Have the Highest Occupancy Rate
-- Presidential rooms has the highest occupancy rate of **59.30%** while Premnium rooms has the lowest occupancy rate of **58.03%**
+Presidential rooms has the highest occupancy rate of **59.30%** while Premnium rooms has the lowest occupancy rate of **58.03%**
+
 ### 2. Delhi Leads in City Occupancy Rates
-- Delhi has the highest occupancy rate at **61.61%**, followed by Hyderabad with an occupancy rate of **58.14%**. Mumbai has occupancy rate of 57.94% and Bangalore has the lowest among the listed cities, at **56.59%**.
-- Average occupancy rate for hotels is higher on weekends than weekdays. The occupancy rate on weekends is about **72.39%**, while it's **50.90%** on weekdays.
-- In June Delhi had the highest occupancy rate at **62.47%**, followed by Hyderabad at **58.46%**, Mumbai at **58.38%**, and Bangalore at **56.58%**.
-- Mumbai generated the highest revenue, followed by Hyderabad, Bangalore, and Delhi. This indicates that Mumbai had the most profitable hotel business among these cities.
-- Revenue generated is highest in the month of May, followed by July and June
-- Luxury hotels generated the highest revenue, significantly more than business hotels. This suggests that luxury accommodations are more profitable
-- Hotels in Delhi has the highest average rating followed by Hyderabad, Mumbai and Bangalore
-- Others platform generates the largest revenue contributing to **40.9%** of the total revenue. MakeYourTrip is also a significant platform contributing to **20%** of the revenue while Direct Offline, Direct Online, Journey, Logtrip, and Tripster contribute smaller percentages to the overall revenue.
+Delhi has the highest occupancy rate at **61.61%**, followed by Hyderabad with an occupancy rate of **58.14%**. Mumbai has occupancy rate of 57.94% and Bangalore has the lowest among the listed cities, at **56.59%**.
+
+### 3. Weekend Occupancy Surpasses Weekdays
+Average occupancy rate for hotels is higher on weekends than weekdays. The occupancy rate on weekends is about **72.39%**, while it's **50.90%** on weekdays.
+
+### 4. Delhi Sees Highest City Occupancy in June
+In June Delhi had the highest occupancy rate at **62.47%**, followed by Hyderabad at **58.46%**, Mumbai at **58.38%**, and Bangalore at **56.58%**.
+
+### 5. Mumbai Generates the Highest Revenue
+Mumbai generated the highest revenue, followed by Hyderabad, Bangalore, and Delhi. This indicates that Mumbai had the most profitable hotel business among these cities.
+
+### 6. May 2022 is the Peak Month for Revenue
+Revenue generated is highest in the month of May, followed by July and June
+
+### 7. Luxury Hotels Outperform in Revenue
+Luxury hotels generated the highest revenue, significantly more than business hotels. This suggests that luxury accommodations are more profitable
+
+### 8. Highest Average Ratings for Delhi Hotels
+Hotels in Delhi has the highest average rating followed by Hyderabad, Mumbai and Bangalore
+
+### 9. 'Others' Platform Dominates Revenue Contribution
+Others platform generates the largest revenue contributing to **40.9%** of the total revenue. MakeYourTrip is also a significant platform contributing to **20%** of the revenue while Direct Offline, Direct Online, Journey, Logtrip, and Tripster contribute smaller percentages to the overall revenue.
   
 ## How to Use
 You can view the .ipynb file from the repository or you can download and run the file

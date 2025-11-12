@@ -65,7 +65,7 @@ Hotels in Delhi has the highest average rating followed by Hyderabad, Mumbai and
 Others platform generates the largest revenue contributing to **40.9%** of the total revenue. MakeYourTrip is also a significant platform contributing to **20%** of the revenue while Direct Offline, Direct Online, Journey, Logtrip, and Tripster contribute smaller percentages to the overall revenue.
   
 ## How to Use
-You can view the .ipynb file from the repository or you can download and run the file
+You can view the [.ipynb file](https://github.com/S-R-HUB/Data-Analysis-in-Hospitality-Domain-Using-Python/blob/main/Hotels%20Analysis.ipynb) from the repository or you can download and run the file
 There are two ways to run the .ipynb file after downloading.
 1. Using Jupyter Notebook
 2. Using Google Colab
